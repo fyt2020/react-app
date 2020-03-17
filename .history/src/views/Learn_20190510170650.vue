@@ -1,10 +1,5 @@
 <template>
     <div class="learn">{{name}}{{course}}
-
-        
-          <h1>第三次提交</h1>
-
-
         <button @click="handle">dianji</button>
     </div>
 </template>

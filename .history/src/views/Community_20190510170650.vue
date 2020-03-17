@@ -2,7 +2,6 @@
 
 <template>
     <div class="header">
-        <h1>第三次提交</h1>
         <ul class="nav">
             <router-link tag='li' to="/community/env">社区环境</router-link>
             <router-link tag='li' to='/community/peo'>社区人员</router-link>

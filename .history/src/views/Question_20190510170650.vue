@@ -1,7 +1,5 @@
 <template>
     <ul class="nav">
-
-              <h1>第三次提交</h1>
         <li class="question">{{question}}
             <button v-if="key" @click="handle" class="btn">next</button>
             <button v-else @click="goback" class="btn">返回</button>
