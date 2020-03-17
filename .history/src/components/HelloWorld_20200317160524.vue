@@ -3,12 +3,10 @@
     <div class="wrapper">
       <div class="tree__box">
 
-        <h1>第二次提交</h1>
-
         <span  @click="showBtn">编辑</span>
 
 
-       
+        <div>第二次提交</div>
 
 
 
